@@ -1,5 +1,5 @@
 # Youtube-Top-Trending-Videos-2017-2018-US-
-Trough this data i will give recommendations for youtube content creators, what common chararecteristics do top trending youtube videos have.
+Berdasarkan data yang terlampir, berikut rekomendasi untuk konten kreator Youtube mengenai karakteristik umum top trending video Youtube.
 
 Analisis Top Trending Youtube ini memiliki batasan data dari 1 Januari 2017 hingga 6 Desember 2018. data diambil dari link berikut: (https://www.kaggle.com/datasets/datasnaek/youtube-new). berdasarkan data yang ada dilakukan pemahaman dan pembersihan data yang tidak relevan dan juga tidak masuk akal. sehingga dasar analisis akan dilakukan menurut data berikut
  1.   channel_title = tipe data object ini memiliki info nama channel  
